@@ -8,9 +8,9 @@
   integrity sha1-gj3U3yWp8aZBNGcS57cJftEXYQU=
 
 "@babel/cli@^7.14.5":
-  version "7.14.8"
-  resolved "https://registry.nlark.com/@babel/cli/download/@babel/cli-7.14.8.tgz#fac73c0e2328a8af9fd3560c06b096bfa3730933"
-  integrity sha1-+sc8DiMoqK+f01YMBrCWv6NzCTM=
+  version "7.15.4"
+  resolved "https://registry.yarnpkg.com/@babel/cli/-/cli-7.15.4.tgz#00e21e192b738dec7900c8bb36270e377217c0a4"
+  integrity sha512-9RhhQ7tgKRcSO/jI3rNLxalLSk30cHqeM8bb+nGOJTyYBDpkoXw/A9QHZ2SYjlslAt4tr90pZQGIEobwWHSIDw==
   dependencies:
     commander "^4.0.1"
     convert-source-map "^1.1.0"
@@ -3015,11 +3015,6 @@ eslint@^7.27.0:
     table "^6.0.9"
     text-table "^0.2.0"
     v8-compile-cache "^2.0.3"
-
-esm@^3.2.25:
-  version "3.2.25"
-  resolved "https://registry.nlark.com/esm/download/esm-3.2.25.tgz#342c18c29d56157688ba5ce31f8431fbb795cc10"
-  integrity sha1-NCwYwp1WFXaIulzjH4Qx+7eVzBA=
 
 espree@^7.3.0, espree@^7.3.1:
   version "7.3.1"
